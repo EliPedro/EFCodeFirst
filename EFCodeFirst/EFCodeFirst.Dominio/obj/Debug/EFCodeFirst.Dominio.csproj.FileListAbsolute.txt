@@ -1,0 +1,4 @@
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.Dominio\bin\Debug\EFCodeFirst.Dominio.dll
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.Dominio\bin\Debug\EFCodeFirst.Dominio.pdb
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.Dominio\obj\Debug\EFCodeFirst.Dominio.dll
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.Dominio\obj\Debug\EFCodeFirst.Dominio.pdb

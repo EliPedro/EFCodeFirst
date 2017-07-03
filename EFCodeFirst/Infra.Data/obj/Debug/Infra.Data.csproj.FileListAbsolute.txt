@@ -1,0 +1,15 @@
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\bin\Debug\Infra.Data.dll.config
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\bin\Debug\Infra.Data.dll
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\bin\Debug\Infra.Data.pdb
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\bin\Debug\EFCodeFirst.Dominio.dll
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\bin\Debug\EFCodeFirst.Dominio.pdb
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\obj\Debug\Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\obj\Debug\Infra.Data.dll
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\obj\Debug\Infra.Data.pdb
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\obj\Debug\Infra.Data.Migrations.Initial.resources
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\obj\Debug\Infra.Data.csproj.GenerateResource.Cache
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\Infra.Data\obj\Debug\Infra.Data.Migrations.STR_TESTE.resources

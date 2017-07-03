@@ -1,0 +1,15 @@
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\bin\Debug\EFCodeFirst.UI.exe.config
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\bin\Debug\EFCodeFirst.UI.exe
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\bin\Debug\EFCodeFirst.UI.pdb
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\bin\Debug\EFCodeFirst.Dominio.dll
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\bin\Debug\EntityFramework.dll
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\bin\Debug\Infra.Data.dll
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\bin\Debug\EFCodeFirst.Dominio.pdb
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\bin\Debug\Infra.Data.pdb
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\bin\Debug\Infra.Data.dll.config
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\bin\Debug\EntityFramework.xml
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\obj\Debug\EFCodeFirst.UI.csprojResolveAssemblyReference.cache
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\obj\Debug\EFCodeFirst.UI.exe
+C:\Users\elipe\Desktop\EntityFramework\EFCodeFirst\EFCodeFirst\EFCodeFirst.UI\obj\Debug\EFCodeFirst.UI.pdb
