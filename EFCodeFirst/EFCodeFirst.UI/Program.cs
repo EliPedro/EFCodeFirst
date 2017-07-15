@@ -1,7 +1,6 @@
-﻿using System;
-using System.Linq;
-using System.Net.Sockets;
+﻿using System.Linq;
 using Infra.Data.Contexto;
+using static System.Console;
 
 namespace EFCodeFirst.UI
 {
@@ -13,10 +12,9 @@ namespace EFCodeFirst.UI
             var ctx = new DbContexto();
 
             var pessoa = ctx.Pessoa.Include("Endereco").FirstOrDefault(p => p.Nome == "KAROLINE");
-
-            Console.WriteLine(pessoa.Endereco.FirstOrDefault().Rua);
-
-
+            
+             WriteLine(pessoa.Endereco.FirstOrDefault().Rua);
+            
             var pessoa2 = from c in ctx.Pessoa.AsEnumerable()
                 join e in ctx.Endereco
                 on c.PessoaId equals e.PessoaId
@@ -24,14 +22,11 @@ namespace EFCodeFirst.UI
 
             foreach (var item in pessoa2)
             {
-                Console.WriteLine($@"Nome: {item.Nome}");
+                WriteLine($@"Nome: {item.Nome}");
             }
                          
-
-                           
-
-
-            Console.ReadKey();
+            
+            ReadKey();
         }
     }
 }
